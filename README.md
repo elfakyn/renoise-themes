@@ -1,6 +1,8 @@
-# renoise-themes
+# themes for renoise
 
-**HOW TO INSTALL:** download the zip file (clone or download button), extract it, drag and drop the xrnc in renoise. enjoy.
+## HOW TO INSTALL
+
+Download the zip file (clone or download button), extract it, drag and drop the xrnc in renoise. enjoy.
 
 ## Milky
 
