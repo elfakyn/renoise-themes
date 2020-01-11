@@ -1,7 +1,9 @@
 # renoise-themes
 Themes for renoise
 
-Milky: an adaptation of the default MilkyTracker theme for Renoise. Oldskool feeling.
+## Milky
+
+An adaptation of the default MilkyTracker theme for Renoise. Oldskool feeling.
 
 Renoise doesn't support different backgrounds for boxes and the pattern so they all had to be black unfortunately.
 
