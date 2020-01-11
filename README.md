@@ -1,6 +1,8 @@
 # renoise-themes
 Themes for renoise
 
+HOW TO INSTALL: download the zip file (clone or download button), extract it, drag and drop the xrnc in renoise. enjoy.
+
 ## Milky
 
 An adaptation of the default MilkyTracker theme for Renoise. Oldskool feeling.
