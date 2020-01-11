@@ -1,5 +1,4 @@
 # renoise-themes
-Themes for renoise
 
 **HOW TO INSTALL:** download the zip file (clone or download button), extract it, drag and drop the xrnc in renoise. enjoy.
 
