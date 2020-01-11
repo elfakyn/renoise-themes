@@ -2,7 +2,7 @@
 
 ## HOW TO INSTALL
 
-Download the zip file (clone or download button), extract it, drag and drop the xrnc in renoise. enjoy.
+Download the zip file (green "clone or download" button in the top right), extract it, drag and drop the xrnc in renoise. enjoy.
 
 ## Milky
 
